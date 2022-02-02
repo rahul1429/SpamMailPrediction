@@ -26,6 +26,7 @@ def main():
     if st.button('Check'):
         result = pred([input_mail])
 
+    # printing the result
     if result == "Spam":
         st.error(result)
     else:
