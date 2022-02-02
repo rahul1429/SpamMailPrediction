@@ -1,1 +1,1 @@
-# SpamMailPrediction
+# Spam-Mail-Prediction
